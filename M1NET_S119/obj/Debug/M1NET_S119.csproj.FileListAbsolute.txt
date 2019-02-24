@@ -1,0 +1,7 @@
+C:\Users\lemus\source\repos\modulo 1\M1NET_S119\M1NET_S119\bin\Debug\M1NET_S119.exe.config
+C:\Users\lemus\source\repos\modulo 1\M1NET_S119\M1NET_S119\bin\Debug\M1NET_S119.exe
+C:\Users\lemus\source\repos\modulo 1\M1NET_S119\M1NET_S119\bin\Debug\M1NET_S119.pdb
+C:\Users\lemus\source\repos\modulo 1\M1NET_S119\M1NET_S119\obj\Debug\M1NET_S119.csprojAssemblyReference.cache
+C:\Users\lemus\source\repos\modulo 1\M1NET_S119\M1NET_S119\obj\Debug\M1NET_S119.csproj.CoreCompileInputs.cache
+C:\Users\lemus\source\repos\modulo 1\M1NET_S119\M1NET_S119\obj\Debug\M1NET_S119.exe
+C:\Users\lemus\source\repos\modulo 1\M1NET_S119\M1NET_S119\obj\Debug\M1NET_S119.pdb
